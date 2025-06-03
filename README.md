@@ -15,7 +15,7 @@
 - **Calculation Routines**  
   - Photocurrent generation algorithms  
   - Spatial resolution estimates based on beam-size and charge distribution  
-  - Simple thermal load approximations (steady-state heating)  
+  - Simple thermal load approximations
 
 - **Example Scripts & Notebooks**  
   - Demonstrations of instantiating multiple XBPM configurations  
